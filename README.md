@@ -1,1 +1,1 @@
-This Rest Controller used to return a list of book
+This Rest Service used to return a list of books
