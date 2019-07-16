@@ -1,1 +1,1 @@
-This Rest Service used to return a list of books
+This Rest Service used to return a list of books. Also Spring Boot provides actuator to monitor and manage our application. Actuator is a tool which has HTTP endpoints. when application is pushed to production, you can choose to manage and monitor your application using HTTP endpoints.
